@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdriaticSea/static/css/main.59d0d8f7.css",
+    "main.js": "/AdriaticSea/static/js/main.b0e6847c.js",
+    "static/media/gif.gif": "/AdriaticSea/static/media/gif.506c51351e266ccc36ba.gif",
+    "static/media/ad1.png": "/AdriaticSea/static/media/ad1.cfdc08686a1362fd2849.png",
+    "index.html": "/AdriaticSea/index.html",
+    "main.59d0d8f7.css.map": "/AdriaticSea/static/css/main.59d0d8f7.css.map",
+    "main.b0e6847c.js.map": "/AdriaticSea/static/js/main.b0e6847c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59d0d8f7.css",
+    "static/js/main.b0e6847c.js"
+  ]
+}
